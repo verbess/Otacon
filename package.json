@@ -1,0 +1,15 @@
+{
+  "name": "otacon",
+  "displayName": "Otacon",
+  "description": "Extensions pack for unity dev",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "publisher.extensionName"
+  ]
+}

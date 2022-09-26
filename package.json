@@ -2,14 +2,45 @@
   "name": "otacon",
   "displayName": "Otacon",
   "description": "Extensions pack for unity dev",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.71.0"
+  "icon": "images/gameboy.png",
+  "publisher": "verbess",
+  "author": {
+    "name": "verbess",
+    "url": "https://github.com/verbess"
   },
+  "version": "1.0.0",
   "categories": [
     "Extension Packs"
   ],
+  "keywords": [
+    "Unity",
+    "C#",
+    "Extension Packs"
+  ],
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "markdown": "github",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "homepage": "https://github.com/verbess/Otacon",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:verbess/Otacon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/verbess/Otacon/issues"
+  },
   "extensionPack": [
-    "publisher.extensionName"
+    "ms-dotnettools.csharp",
+    "k--kato.docomment",
+    "kleber-swf.unity-code-snippets",
+    "ptd.vscode-unitymeta",
+    "slevesque.shader",
+    "amlovey.shaderlabvscodefree",
+    "eamodio.gitlens",
+    "streetsidesoftware.code-spell-checker",
+    "gruntfuggly.todo-tree",
+    "mkxml.vscode-filesize",
+    "equinusocio.vsc-material-theme-icons"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "name": "otacon",
   "displayName": "Otacon",
-  "description": "Extensions pack for unity dev",
+  "description": "Extensions pack for unity dev.",
   "icon": "images/gameboy.png",
   "publisher": "verbess",
   "author": {
     "name": "verbess",
     "url": "https://github.com/verbess"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "categories": [
     "Extension Packs"
   ],
@@ -32,7 +32,6 @@
   },
   "extensionPack": [
     "ms-dotnettools.csharp",
-    "k--kato.docomment",
     "kleber-swf.unity-code-snippets",
     "ptd.vscode-unitymeta",
     "slevesque.shader",

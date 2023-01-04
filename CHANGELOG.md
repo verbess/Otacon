@@ -21,3 +21,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Todo Tree
 - filesize
 - Material Theme Icons
+
+## [1.1.0] - 2023-01-04
+### Removed
+- C# XML Documentation Comments

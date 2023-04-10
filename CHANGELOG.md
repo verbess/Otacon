@@ -25,3 +25,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.1.0] - 2023-01-04
 ### Removed
 - C# XML Documentation Comments
+
+## [1.2.0] - 2023-04-10
+### Removed
+- Material Theme Icons

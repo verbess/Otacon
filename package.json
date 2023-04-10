@@ -8,7 +8,7 @@
     "name": "verbess",
     "url": "https://github.com/verbess"
   },
-  "version": "1.1.0",
+  "version": "1.2.0",
   "categories": [
     "Extension Packs"
   ],
@@ -39,7 +39,6 @@
     "eamodio.gitlens",
     "streetsidesoftware.code-spell-checker",
     "gruntfuggly.todo-tree",
-    "mkxml.vscode-filesize",
-    "equinusocio.vsc-material-theme-icons"
+    "mkxml.vscode-filesize"
   ]
 }

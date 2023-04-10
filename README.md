@@ -21,9 +21,6 @@
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize)
 
-### Editor Appearance
-- [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)
-
 </details>
 
 ## Configuration

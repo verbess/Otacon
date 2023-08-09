@@ -1,12 +1,19 @@
 # Change Log
+## [1.3.0] - 2023-8-10
+### Added
+- C# Dev Kit
+- Unity
 
-All notable changes to the "Otacon" extension pack will be documented in this file.
+### Removed
+- C#
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.2.0] - 2023-04-10
+### Removed
+- Material Theme Icons
 
-## [Released]
-
-## Initial release - 2022-09-27
+## [1.1.0] - 2023-01-04
+### Removed
+- C# XML Documentation Comments
 
 ## [1.0.0] - 2022-09-27
 ### Added
@@ -22,10 +29,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - filesize
 - Material Theme Icons
 
-## [1.1.0] - 2023-01-04
-### Removed
-- C# XML Documentation Comments
-
-## [1.2.0] - 2023-04-10
-### Removed
-- Material Theme Icons
+## Initial release - 2022-09-27

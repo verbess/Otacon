@@ -1,3 +1,6 @@
+# VSCode
 .vscode/**
 .vscode-test/**
+
+# Git
 .gitignore

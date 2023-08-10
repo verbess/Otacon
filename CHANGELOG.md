@@ -1,4 +1,10 @@
 # Change Log
+## [1.4.0] - 2023-08-11
+### Removed
+- Code Spell Checker
+- Todo Tree
+- filesize
+
 ## [1.3.2] - 2023-08-10
 ### Added
 - C# Dev Kit

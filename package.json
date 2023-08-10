@@ -8,7 +8,7 @@
     "name": "verbess",
     "url": "https://github.com/verbess"
   },
-  "version": "1.3.2",
+  "version": "1.4.0",
   "categories": [
     "Extension Packs"
   ],
@@ -37,9 +37,6 @@
     "ptd.vscode-unitymeta",
     "slevesque.shader",
     "amlovey.shaderlabvscodefree",
-    "eamodio.gitlens",
-    "streetsidesoftware.code-spell-checker",
-    "gruntfuggly.todo-tree",
-    "mkxml.vscode-filesize"
+    "eamodio.gitlens"
   ]
 }

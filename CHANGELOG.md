@@ -1,4 +1,17 @@
 # Change Log
+## [2.0.0] - 2023-09-14
+**Switch to the Godot engine; if you are still using the Unity engine, please do not update.**
+**If you accidentally updated, please revert to version [1.4.0](https://github.com/verbess/Otacon/releases/tag/v1.4.0).**
+
+### Added
+- C# Tools for Godot
+
+### Removed
+- Unity
+- Unity Code Snippets
+- Unity3D Meta Files Watcher
+- ShaderlabVSCodeFree
+
 ## [1.4.0] - 2023-08-11
 ### Removed
 - Code Spell Checker

@@ -72,7 +72,12 @@ Add some configuration options to the [settings.json](https://code.visualstudio.
 "editor.wordWrapColumn": 120,
 "editor.formatOnSave": true,
 "editor.formatOnType": true,
-// Bracket pair colorization
-"editor.bracketPairColorization.enabled": true,
 "files.insertFinalNewline": true,
+// Csharpier settings:
+"[csharp]": {
+    "editor.defaultFormatter": "csharpier.csharpier-vscode"
+},
+"[xml]": {
+    "editor.defaultFormatter": "csharpier.csharpier-vscode"
+},
 ```

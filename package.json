@@ -8,7 +8,7 @@
     "name": "verbess",
     "url": "https://github.com/verbess"
   },
-  "version": "2.0.0",
+  "version": "2.1.0",
   "categories": [
     "Extension Packs"
   ],
@@ -19,7 +19,7 @@
     "Extension Packs"
   ],
   "engines": {
-    "vscode": "^1.80.0"
+    "vscode": "^1.39.0"
   },
   "license": "SEE LICENSE IN LICENSE",
   "homepage": "https://github.com/verbess/Otacon",
@@ -34,6 +34,7 @@
     "ms-dotnettools.csdevkit",
     "neikeq.godot-csharp-vscode",
     "slevesque.shader",
-    "eamodio.gitlens"
+    "eamodio.gitlens",
+    "csharpier.csharpier-vscode"
   ]
 }

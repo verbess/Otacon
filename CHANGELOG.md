@@ -1,5 +1,9 @@
 # Change Log
-## [2.0.0] - 2023-09-14
+## [2.1.0]
+### Added
+- CSharpier - Code formatter
+
+## [2.0.0]
 **Switch to the Godot engine; if you are still using the Unity engine, please do not update.**  
 **If you accidentally updated, please revert to version [1.4.0](https://github.com/verbess/Otacon/releases/tag/v1.4.0).**
 
@@ -12,13 +16,13 @@
 - Unity3D Meta Files Watcher
 - ShaderlabVSCodeFree
 
-## [1.4.0] - 2023-08-11
+## [1.4.0]
 ### Removed
 - Code Spell Checker
 - Todo Tree
 - filesize
 
-## [1.3.2] - 2023-08-10
+## [1.3.2]
 ### Added
 - C# Dev Kit
 - Unity
@@ -26,15 +30,15 @@
 ### Removed
 - C#
 
-## [1.2.0] - 2023-04-10
+## [1.2.0]
 ### Removed
 - Material Theme Icons
 
-## [1.1.0] - 2023-01-04
+## [1.1.0]
 ### Removed
 - C# XML Documentation Comments
 
-## [1.0.0] - 2022-09-27
+## [1.0.0]
 ### Added
 - C#
 - C# XML Documentation Comments
@@ -47,5 +51,3 @@
 - Todo Tree
 - filesize
 - Material Theme Icons
-
-## Initial release - 2022-09-27
